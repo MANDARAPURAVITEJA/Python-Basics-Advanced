@@ -1,2 +1,2 @@
 # Python-Basics-Advanced
-python Basic and Advanced Assignment questions and answers
+Python Basic and Advanced Questions and Answers
